@@ -8,7 +8,6 @@ You can view my portfolio at: https://danperkins.dev
 - A-Levels (Mathematics, Further Maths, Physics & Computer Science)
 - Creating websites and expanding my toolset
 - British Informatics Olympiad
-- Perse Coding Team Challenge
 
 #### What I aspire to do:
 - Software developer apprenticeship
